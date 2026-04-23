@@ -38,3 +38,11 @@ This project recommends restaurants based on user preferences such as city, cuis
 ```bash
 git clone <your_repo_url>
 cd swiggy_recommendation_system
+
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+scipy
+
